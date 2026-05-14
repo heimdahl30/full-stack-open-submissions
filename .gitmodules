@@ -1,0 +1,48 @@
+[submodule "part0"]
+	path = part0
+	url = https://github.com/heimdahl30/Part-0.git
+[submodule "part1"]
+	path = part1
+	url = https://github.com/heimdahl30/Part-I.git
+[submodule "part2"]
+	path = part2
+	url = https://github.com/heimdahl30/Part-II.git
+[submodule "part3"]
+	path = part3
+	url = https://github.com/heimdahl30/Part-III.git
+[submodule "part4"]
+	path = part4
+	url = https://github.com/heimdahl30/Part-IV.git
+[submodule "part5"]
+	path = part5
+	url = https://github.com/heimdahl30/Part-V.git
+[submodule "part6"]
+	path = part6
+	url = https://github.com/heimdahl30/Part-VI.git
+[submodule "part7"]
+	path = part7
+	url = https://github.com/heimdahl30/Part-VII.git
+[submodule "part8"]
+	path = part8
+	url = https://github.com/heimdahl30/Part-VIII.git
+[submodule "part9"]
+	path = part9
+	url = https://github.com/heimdahl30/Part-IX.git
+[submodule "part10"]
+	path = part10
+	url = https://github.com/heimdahl30/rate-repository-app.git
+[submodule "part11a"]
+	path = part11a
+	url = https://github.com/heimdahl30/full-stack-open-pokedex.git
+[submodule "part11b"]
+	path = part11b
+	url = https://github.com/heimdahl30/CI-CD_project.git
+[submodule "part12a"]
+	path = part12a
+	url = https://github.com/heimdahl30/fs-containers.git
+[submodule "part12b"]
+	path = part12b
+	url = https://github.com/heimdahl30/container_project.git
+[submodule "part13"]
+	path = part13
+	url = https://github.com/heimdahl30/Postgres_project.git
