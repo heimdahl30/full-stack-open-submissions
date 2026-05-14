@@ -5,7 +5,7 @@ This repository contains my completed coursework, exercises, and projects for th
 Through this intensive curriculum, I built a deep, production-grade foundation in modern JavaScript/TypeScript full-stack development, moving from core UI components to secure backend architectures and automated deployment pipelines.
 
 ## 🚀 Key Learning Outcomes & Architecture
-* **Frontend Mastery:** Developed single-page applications (SPAs) using **React (Hooks, Context, Router)**, state management via **Redux Toolkit**, and modern styling.
+* **Frontend Mastery:** Developed single-page applications (SPAs) using **React (Hooks, Context, Router)**, state management via **Redux Toolkit**, **React Native**, and modern styling.
 * **Backend Architecture:** Built robust RESTful APIs using **Node.js** and **Express**, implementing secure token-based authentication (JWT) and custom middleware.
 * **Database & Persistence:** Designed relational and non-relational schemas using **MongoDB (Mongoose)** and **PostgreSQL (Sequelize/Prisma)**, optimizing for secure CRUD operations.
 * **Type Safety:** Transitioned projects to strict **TypeScript** for robust compile-time error checking and enterprise-grade code scalability.
@@ -26,6 +26,7 @@ The course is split into parts, each focusing on a distinct layer of the modern 
 * **Part 7:** React Router, Custom Hooks, Webpack, and Styling UI
 * **Part 8:** GraphQL, Apollo
 * **Part 9:** Enterprise Application Development with TypeScript
+* **Part 10:** React Native for mobile applications
 * **Part 11:** Continuous Integration / Continuous Deployment (CI/CD) via GitHub Actions
 * **Part 12:** Containers with Docker (Development vs. Production multi-stage builds)
 * **Part 13:** Relational Database PostgreSQL
@@ -35,7 +36,7 @@ The course is split into parts, each focusing on a distinct layer of the modern 
 ## 🛠️ Tech Stack & Tools
 
 * **Languages:** JavaScript (ES6+), TypeScript
-* **Frontend:** React, Redux Toolkit, React Query, Axios, HTML5/CSS3
+* **Frontend:** React, React Native, Redux Toolkit, React Query, Axios, HTML5/CSS3
 * **Backend:** Node.js, Express
 * **Databases:** MongoDB, PostgreSQL
 * **Testing:** Jest, Supertest, Cypress, Playwright
