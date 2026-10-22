@@ -30,6 +30,7 @@ The course is split into parts, each focusing on a distinct layer of the modern 
 * **Part 11:** Continuous Integration / Continuous Deployment (CI/CD) via GitHub Actions
 * **Part 12:** Containers with Docker (Development vs. Production multi-stage builds)
 * **Part 13:** Relational Database PostgreSQL
+* **Part 14:** Next.js
 
 ---
 
