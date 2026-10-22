@@ -5,7 +5,7 @@ This repository contains my completed coursework, exercises, and projects for th
 Through this intensive curriculum, I built a deep, production-grade foundation in modern JavaScript/TypeScript full-stack development, moving from core UI components to secure backend architectures and automated deployment pipelines.
 
 ## 🚀 Key Learning Outcomes & Architecture
-* **Frontend Mastery:** Developed single-page applications (SPAs) using **React (Hooks, Context, Router)**, state management via **Redux Toolkit**, **React Native**, and modern styling.
+* **Frontend Mastery:** Developed single-page applications (SPAs) using **React (Hooks, Context, Router)**, state management via **Redux Toolkit**, **React Native**, **Next.js** and modern styling.
 * **Backend Architecture:** Built robust RESTful APIs using **Node.js** and **Express**, implementing secure token-based authentication (JWT) and custom middleware.
 * **Database & Persistence:** Designed relational and non-relational schemas using **MongoDB (Mongoose)** and **PostgreSQL (Sequelize/Prisma)**, optimizing for secure CRUD operations.
 * **Type Safety:** Transitioned projects to strict **TypeScript** for robust compile-time error checking and enterprise-grade code scalability.
