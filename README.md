@@ -55,7 +55,7 @@ The course is split into parts, each focusing on a distinct layer of the modern 
 
 ## 👤 Connect with Me
 
-I am actively preparing for **Full Stack / Software Engineer** roles by expanding this stack into **Next.js (App Router)** and production-grade architectures.
+I am actively preparing for **Full Stack / Software Engineer** roles by building a production-grade grocery supply app.
 
 * **GitHub:** https://github.com/heimdahl30
 * **LinkedIn:** https://www.linkedin.com/in/abhinav-singh0951/
