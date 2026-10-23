@@ -46,3 +46,6 @@
 [submodule "part13"]
 	path = part13
 	url = https://github.com/heimdahl30/Postgres_project.git
+[submodule "part14"]
+	path = part14
+	url = https://github.com/heimdahl30/blogs-app-nextjs
